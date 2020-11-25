@@ -75,7 +75,7 @@ that are exclusionary, or that hold others up for ridicule
 
 Community members asked to stop any inappropriate behavior are expected to comply immediately.
 
-### Consequences
+### Consequences
 
 If a participant engages in behavior that violates this code of
 conduct, the PCC team may take any action they deem appropriate,
@@ -124,19 +124,16 @@ If you believe that someone is violating the code of conduct, or
 have any other concerns, please contact a member of the PCC work
 group immediately. They can be reached by emailing FIXME@perlfoundation.com
 
-## Procedure for Handling Incidents
+## Procedure for Handling Incidents
 
 [Community Member Procedure For Reporting Code of Conduct Incidents](howto_report.md)
 
 [TPF-CAT Conduct Working Group Enforcement Procedures](enforcement.md)
 
-## License
+## License
 
 This Code of Conduct is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported License.](https://creativecommons.org/licenses/by-sa/3.0/)
 
 ## Attributions
 
 This Code of Conduct was forked from [The Python Community Code of Conduct](https://www.python.org/psf/conduct/)
-
-
-
