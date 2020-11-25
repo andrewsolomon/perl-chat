@@ -8,7 +8,7 @@ of the community, this Code of Conduct will help steer your
 interactions and keep PCC a positive, successful, and growing
 community.
 
-## Our Community
+## Our Community
 
 Members of the PCC are open, considerate, and respectful.
 Behaviours that reinforce these values contribute to a positive
