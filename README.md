@@ -1,7 +1,7 @@
 ### DRAFT
 
-View it [here](https://andrewsolomon.github.io/perl-chat/)
-Make changes [here](https://github.com/andrewsolomon/perl-chat/)
+* View it [here](https://andrewsolomon.github.io/perl-chat/)
+* Make changes [here](https://github.com/andrewsolomon/perl-chat/)
 
 # Welcome to Perl Chat
 
