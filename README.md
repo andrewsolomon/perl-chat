@@ -1,4 +1,6 @@
-# DRAFT Welcome to Perl Chat
+# DRAFT
+
+# Welcome to Perl Chat
 
 An open community for Perl enthusiasts.
 
