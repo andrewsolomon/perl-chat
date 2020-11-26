@@ -11,6 +11,14 @@ A diverse and inclusive community of Perl enthusiasts here to help newcomers fin
 
 The Perl Chat Community (PCC) reports to [The Perl Foundation](https://www.perlfoundation.org/) which is responsible for the Perl programming language and its supporting organizations.
 
+## Our mission
+
+Our mission is to build upon Perl’s reputation as a diverse and inclusive community by providing a clear route to support for Perl newcomers through popular online platforms.
+
+### The fine print
+
+To achieve our goals we have a clear [code of conduct](cc.md) and [conflict resolution process](crp.md)
+
 ### The Team
 
 **Andrew Solomon (London)**
@@ -32,7 +40,3 @@ A keen free software advocate, interests include Perl, Dancer, LaTeX and Emacs. 
 **Lauren Allen (Texas)**
 
 Programming in Perl since 2019. Loves to work with and learn about data science. Lauren is an avid scuba diver and cook.
-
-
-
-### [Code of conduct](cc.md)
