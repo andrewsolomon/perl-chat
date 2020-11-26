@@ -1,5 +1,7 @@
 # DRAFT
 
+See https://andrewsolomon.github.io/perl-chat/
+
 # Welcome to Perl Chat
 
 An open community for Perl enthusiasts.
